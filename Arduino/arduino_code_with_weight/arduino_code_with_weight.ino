@@ -1,0 +1,1 @@
+* It has two functionalities -
